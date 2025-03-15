@@ -43,7 +43,7 @@ print(hi + """╔═══╗╔╗───╔════╗╔═══╗
 ╚╝╚═╝╚═══╝──╚╝──╚═══╝""")
 print(Style.RESET_ALL)
 print()
-print(me + "                    X List Tools X")
+print(ku + "                    X List Tools X")
 print()
 print(" 1. Install Sqlmap Tools")
 print()
